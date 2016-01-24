@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Naz Kamal]]></title>
-        <description><![CDATA[Naz Kamal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Gila Keringat - Keringat Gila]]></title>
+        <description><![CDATA[Gila Keringat - Keringat Gila]]></description>
+        <link>https://thegrid.ai/naz-kamal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 00:25:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 05:50:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/naz-kamal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pertama Kali Terbang Langsung KeHeathrow London]]></title>
+            <description><![CDATA[<article><h1>Pertama Kali Terbang Langsung KeHeathrow London</h1><p>Sebelum Januari 2005, Naz belum pernah terbang naik pesawat. Eh sekalinya terbang, tujuannya langsung ke Heathrow airport di London, Inggris. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/285e6d59b2776b1c3a8cbaf74bfcc5d46c9e08d0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/naz-kamal/pertama-kali-terbang-langsung-keheathrow-london/index.html</link>
+            <guid isPermaLink="false">5c0aab39-740a-4f0a-9925-904ee1096ae4</guid>
+            <pubDate>Sun, 24 Jan 2016 05:50:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Naz Kamal Gila Keringat, Keringat Gila]]></title>
             <description><![CDATA[<article><h1>Naz Kamal Gila Keringat, Keringat Gila</h1><p>Naz Kamal Si Gila Keringat, Si Keringat Gila</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/599cfd03fea68c778d768c0fcc8b1e69d0290a9f.jpg"></article>]]></description>
-            <link>undefinednaz-kamal-gila-keringat-keringat-gila/index.html</link>
+            <link>https://thegrid.ai/naz-kamal/naz-kamal-gila-keringat-keringat-gila/index.html</link>
             <guid isPermaLink="false">46f5988d-8e08-4123-9cf2-cd393ea10201</guid>
             <pubDate>Sun, 24 Jan 2016 00:24:58 GMT</pubDate>
         </item>
